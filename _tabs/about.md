@@ -5,7 +5,7 @@ order: 4
 title: 'About Me'
 ---
 
-![Martin Fuchs](/assets/images/leME.jpg){: .left }
+![Martin Fuchs](/assets/images/leME.jpg)
 Hey, my name is Martin Fuchs and i am a Penetration Tester from Austria. 
 
 I love learning about cybersecurity and trying new things. That's why I started this blog, so I can share my ideas and learning experiences with others who might find them useful.
