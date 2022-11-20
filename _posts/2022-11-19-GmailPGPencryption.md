@@ -7,9 +7,9 @@ tags: [Encryption, Privacy, Email, Gmail, FlowCrypt]
 
 In this guide i will explain the setup of an easy way to encrypt and decrypt emails sent and received via gmail. I will be doin this using the FlowCrypt browser extension.
 
-**This will only work for Firefox and Google Chrome.**
+**Currently this blogpost is only applicable for Firefox, Google Chrome and the Brave browser.**
 
-I will be showcasing it for firefox but it is basically the same for chrome. So here we go:
+I will be showcasing it for firefox but it is basically the same for the others. So here we go:
 
 ## Install the FlowCrypt browser extension
 1. Access the [FlowCrypt](https://flowcrypt.com/) page and click on **Get Firefox Extension**![Step 1 Installation](\assets\images\posts\FlowCrypt\FlowCrypt_Startpage.png)
