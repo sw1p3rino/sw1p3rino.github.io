@@ -1,8 +1,8 @@
 ---
 title: How to not get hacked (for users)
-date: 2022-11-27 12:00:00 +0200
+date: 2022-11-27 21:00:00 +0200
 categories: [Security Advisories]
-tags: [Encryption, Privacy, Email, Gmail, FlowCrypt]
+tags: [Encryption, 2FA, Passwords, Enduser]
 ---
 
 In this guide, I would like to present simple, basic and easy to understand steps to protect yourself from cyberattacks. This should be understandable for everyone and I will follow up in future posts on why these steps are needed.
