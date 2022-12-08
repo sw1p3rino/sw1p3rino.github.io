@@ -3,3 +3,4 @@ Disallow:/tags/
 Disallow:/categories/
 Disallow:/about/
 Disallow:/archives/
+Sitemap: https://swiper.at/sitemap.xml
